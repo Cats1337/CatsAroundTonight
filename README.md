@@ -6,7 +6,7 @@ Created Using:
  Custom Windows 10 Theme
 
 # To Install
-- https://github.com/namazso/SecureUxTheme (arm64)
+- https://github.com/namazso/SecureUxTheme (amd64)
 - Toss the folder into `C:\Windows\Resources\Themes\`
 - Apply on SecureUxTheme
 
