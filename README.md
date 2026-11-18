@@ -2,6 +2,7 @@
 Created Using:
 - https://github.com/nptr/msstyleEditor
 - https://www.angusj.com/resourcehacker
+- [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 
  Custom Windows 10 Theme
 
